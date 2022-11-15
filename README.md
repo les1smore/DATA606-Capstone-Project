@@ -25,3 +25,15 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 ## Data Source
 - [The Behavioral Risk Factor Surveillance System's survey responses in 2015](https://www.cdc.gov/brfss/annual_data/2015/pdf/overview_2015.pdf)
 - Health-related telephone surveys collecting state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services.
+
+## Research Questions
+- What risk factors are most predictive of diabetes risk?
+- What is the association among different variables?
+- Which ML models contribute to more accurate prediction?
+- What are the optimal validation metrics to measure model performance?
+
+## Methodology
+- Select essential risk factors for analysis after literature review
+- EDA with dichotomy and transformation
+- Use multivariable weighted logistic regression models to measure associations among factors
+- Apply supervised ML models and metrics
