@@ -1,5 +1,6 @@
 # DATA 606 Capstone Project: Building Risk Prediction Models for Diabetes Using Machine Learning
 
+Prepared by: Leslie Li, Satyaki Dixit, Shreshta Phogat
 ## Background
 
 **Severity**
