@@ -38,3 +38,11 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 - EDA with dichotomy and transformation
 - Use multivariable weighted logistic regression models to measure associations among factors
 - Apply supervised ML models and metrics
+
+## Data Overview
+### Shape
+- 323 numerical features
+  - 7 categorical features
+  - 244 columns have missing values 
+- 441,456 survey responses (rows)
+- Not balanced with a size at 541.28 MB
