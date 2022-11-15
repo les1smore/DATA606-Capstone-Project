@@ -19,4 +19,5 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 
 # Two Challenges 
 *Challenge 1:* There is considerable heterogeneity in previous studies regarding machine learning techniques used, making it challenging to identify the optimal one. 
+
 *Challenge 2:* There is a lack of transparency about the features used to train the models, which reduces their interpretability, a feature utterly relevant to the doctor.
