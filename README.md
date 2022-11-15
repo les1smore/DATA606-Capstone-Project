@@ -60,7 +60,7 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 - Sex, age, education, income level
 - Sleep/disordered breathing
 
-References:
+*References:*
 - Teboul, A. (2021, November 8). Diabetes health indicators dataset. Kaggle. Retrieved October 6, 2022, from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_health_indicators_BRFSS2015.csv
 
 - Lai, H., Huang, H., Keshavjee, K., Guergachi, A., & Gao, X. (2019, October 15). Predictive models for diabetes mellitus using machine learning techniques - BMC endocrine disorders. BioMed Central. Retrieved October 6, 2022, from https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-019-0436-6
