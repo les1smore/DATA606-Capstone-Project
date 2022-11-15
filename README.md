@@ -46,3 +46,16 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
   - 244 columns have missing values 
 - 441,456 survey responses (rows)
 - Not balanced with a size at 541.28 MB
+
+## A Glimpse of Attributes
+- High BP
+- High cholesterol, cholesterol check
+- BMI
+- Smoke history, stoke history
+- Coronary heart disease (CHD) or myocardial infarction
+- Physical activity in past 30 days
+- Fruit, vegetables, drinks consumption habit
+- Health care coverage, doctor visit frequency, health scale
+- Mental health
+- Sex, age, education, income level
+- Sleep/disordered breathing
