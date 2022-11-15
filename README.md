@@ -17,7 +17,7 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 - Department of Endocrinology and Metabolism from Peking University People's Hospital found that sex, age, history of diabetes, waist circumference, BMI, SBP were important risk factors related to diabetes. (Zhou et al, 2013)
 - Insufficient sleep duration and/or sleep restriction in the laboratory, poor sleep quality, and sleep disorders such as insomnia and sleep apnea have all been associated with diabetes risk (Grandner, 2016). 
 
-# Two Challenges 
+## Two Challenges 
 *Challenge 1:* There is considerable heterogeneity in previous studies regarding machine learning techniques used, making it challenging to identify the optimal one. 
 
 *Challenge 2:* There is a lack of transparency about the features used to train the models, which reduces their interpretability, a feature utterly relevant to the doctor.
