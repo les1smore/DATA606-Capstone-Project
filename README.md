@@ -59,3 +59,18 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 - Mental health
 - Sex, age, education, income level
 - Sleep/disordered breathing
+
+References:
+- Teboul, A. (2021, November 8). Diabetes health indicators dataset. Kaggle. Retrieved October 6, 2022, from https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_health_indicators_BRFSS2015.csv
+
+- Lai, H., Huang, H., Keshavjee, K., Guergachi, A., & Gao, X. (2019, October 15). Predictive models for diabetes mellitus using machine learning techniques - BMC endocrine disorders. BioMed Central. Retrieved October 6, 2022, from https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-019-0436-6
+
+- Diabetesjournals.org. (n.d.). Retrieved October 6, 2022, from https://diabetesjournals.org/care/article/36/12/3944/33144/Nonlaboratory-Based-Risk-Assessment-Algorithm-for
+
+- Centers for Disease Control and Prevention. (2019, September 19). Building risk prediction models for type 2 diabetes using Machine Learning Techniques. Centers for Disease Control and Prevention. Retrieved October 6, 2022, from https://www.cdc.gov/pcd/issues/2019/19_0109.htm
+
+- Fregoso-Aparicio, L., Noguez, J., Montesinos, L., & García-García, J. A. (2021, December 20). Machine learning and deep learning predictive models for type 2 diabetes: A systematic review - diabetology & metabolic syndrome. BioMed Central. Retrieved October 6, 2022, from https://dmsjournal.biomedcentral.com/articles/10.1186/s13098-021-00767-9
+
+- Grandner, M. A., Seixas, A., Shetty, S., & Shenoy, S. (2016). Sleep Duration and Diabetes Risk: Population Trends and Potential Mechanisms. Current diabetes reports, 16(11), 106. https://doi.org/10.1007/s11892-016-0805-8
+
+- https://www.cdc.gov/brfss/
