@@ -23,5 +23,5 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 *Challenge 2:* There is a lack of transparency about the features used to train the models, which reduces their interpretability, a feature utterly relevant to the doctor.
 
 ## Data Source
-- The Behavioral Risk Factor Surveillance System's survey responses in 2015. [https://www.cdc.gov/brfss/annual_data/2015/pdf/overview_2015.pdf]
+- [The Behavioral Risk Factor Surveillance System's survey responses in 2015.] (https://www.cdc.gov/brfss/annual_data/2015/pdf/overview_2015.pdf)
 - Health-related telephone surveys collecting state data about U.S. residents regarding their health-related risk behaviors, chronic health conditions, and use of preventive services.
