@@ -2,7 +2,7 @@
 
 Prepared by: Leslie Li, Satyaki Dixit, Shreshta Phogat
 
-[A Project Guide:] (https://medium.com/@leslie.knightley/building-risk-predictions-models-for-diabetes-using-machine-learning-9e6513bf6b9d)
+[A Project Guide](https://medium.com/@leslie.knightley/building-risk-predictions-models-for-diabetes-using-machine-learning-9e6513bf6b9d)
 ## Background
 
 **Severity**
