@@ -40,7 +40,7 @@ add_bg_from_local('/Users/leslie/Desktop/DATA606/app_background.jpg')
 
 # HEADINGS
 st.title('Diabetes Checkup')
-st.sidebar.header('Patient Data')
+st.sidebar.header('User Data')
 st.subheader('Training Data Stats')
 st.write(df.describe())
 
