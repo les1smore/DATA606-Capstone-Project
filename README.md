@@ -62,4 +62,6 @@ Early diagnosis can lead to lifestyle changes and more effective treatment, maki
 - Sex, age, education, income level
 - Sleep/disordered breathing
 
+## Web Application Overview
 
+![demo_preview](https://user-images.githubusercontent.com/60702562/210373376-f2ca7a4c-599b-4b01-b89d-0e28c0fd8762.png)
